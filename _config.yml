@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "세상의 이것저것 모아두는 저장소"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "mhlee"
 description              : "An amazing website."
 url                      : "https://MHLee808.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
