@@ -1,3 +1,15 @@
+---
+layout: single
+title:  "pyhton test"
+categories: coding
+tag: [python] 
+toc: true
+author_profile: false #true
+sidebar:
+    nav: "docs"
+search: true #false:검색기능/ 검색되지 않음
+---
+
 ## 심층 전방향 신경망
 
 ### 모델 아키텍쳐
