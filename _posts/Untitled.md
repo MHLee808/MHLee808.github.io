@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "pyhton test"
+title:  "pyhton test2"
 categories: coding_r1
 tag: [python] 
 toc: true
