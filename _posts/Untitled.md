@@ -1,3 +1,14 @@
+---
+layout: single
+title:  "pyhton test"
+categories: coding_r1
+tag: [python] 
+toc: true
+author_profile: false #true
+sidebar:
+    nav: "docs"
+search: true #false:검색기능/ 검색되지 않음
+---
 ```python
 lambda a:a**2
 
