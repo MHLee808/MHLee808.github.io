@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "VAE"
-categories: coding_vae
+title:  "GAN(FNN)"
+categories: coding_GAN
 tag: [python] 
 toc: true
 author_profile: false #true
